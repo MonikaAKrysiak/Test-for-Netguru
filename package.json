@@ -1,0 +1,19 @@
+{
+  "name": "logIn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "trello"
+  ],
+  "author": "Monika",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.0.1",
+    "prettier": "^2.2.1"
+  }
+}
